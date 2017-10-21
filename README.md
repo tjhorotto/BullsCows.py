@@ -1,2 +1,2 @@
 # BullsCows.py
-#simple game made to practice in python language.
+#simple game, made to practice the programing language python
